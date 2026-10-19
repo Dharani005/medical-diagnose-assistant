@@ -53,7 +53,7 @@ graph LR
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/medical-diagnose-assistant.git
+git clone https://github.com/Dharani005/medical-diagnose-assistant.git
 cd medical-diagnose-assistant
 ```
 
